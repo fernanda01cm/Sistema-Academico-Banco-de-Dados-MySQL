@@ -1,4 +1,4 @@
-# Sistema-Acad-mico-Banco-de-Dados-MySQL
+# Sistema-Academico-Banco-de-Dados-MySQL
 Visão geral
 Este projeto consiste na criação de um banco de dados relacional para representar parte da estrutura acadêmica de uma instituição de ensino. O banco organiza informações sobre departamentos, docentes, disciplinas, ofertas de disciplinas e atribuições dos professores.
 O projeto foi desenvolvido como atividade prática de estudos em Sistemas de Informação, com foco nos fundamentos de SQL e na utilização do MySQL.
