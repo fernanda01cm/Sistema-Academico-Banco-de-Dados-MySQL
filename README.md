@@ -66,6 +66,9 @@ Licença
 Este projeto foi desenvolvido para fins educacionais. Uma licença específica poderá ser definida futuramente.
 Autora
 Fernanda Cristina
-
 Estudante de Sistemas de Informação, com foco no aprendizado de SQL, MySQL e fundamentos de desenvolvimento de sistemas.
 GitHub: @fernanda01cm
+
+## Demonstração
+<img width="626" height="310" alt="image" src="https://github.com/user-attachments/assets/7bd68142-d0f5-438e-abbe-27ed71363114" />
+
